@@ -1,0 +1,10 @@
+name: lmao
+channels:
+  - defaults
+dependencies:
+  - cherrypy=14.0.1
+  - pip=9.0.1
+  - python=3.6.4
+  - setuptools=38.4.0
+  - pyyaml
+  - requests
